@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="98"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="418"/>
+        <CursorPos X="68" Y="439"/>
+        <UsageCount Value="98"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="myfunctions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MyFunctions"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="20" Y="10"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ufview.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FView"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UFView"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="12" Y="71"/>
+        <UsageCount Value="61"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ufsendgcode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FSend"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uFSendGcode"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="8" Y="33"/>
+        <UsageCount Value="61"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="6"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\Software\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1114"/>
+        <CursorPos X="89" Y="1141"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\Software\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="29" Y="26"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\Software\lazarus\lcl\include\canvas.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="1139"/>
+        <CursorPos X="19" Y="1162"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="630" Column="38" TopLine="593"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="212" Column="12" TopLine="197"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="723" Column="29" TopLine="715"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="815" Column="15" TopLine="778"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="818" Column="27" TopLine="810"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="179" Column="24" TopLine="158"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="516" Column="57" TopLine="409"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="91" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="51" Column="3" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="34" Column="5" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="58" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="46" Column="18" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="52" Column="47" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="59" Column="21" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="60" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="247" Column="3" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="60" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="172" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="687" Column="35" TopLine="671"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="68" Column="61" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="66" Column="69" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="532" Column="5" TopLine="514"/>
+      </Position>
+      <Position>
+        <Filename Value="ufview.pas"/>
+        <Caret Line="74" Column="36" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="702" Column="13" TopLine="687"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="477" Column="16" TopLine="461"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="562" Column="16" TopLine="524"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="174" Column="28" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="704" Column="50" TopLine="781"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="795" Column="13" TopLine="831"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="430" Column="36" TopLine="607"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
