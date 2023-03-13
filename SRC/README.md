@@ -1,5 +1,5 @@
 # GcodeScale
-GCODE parser with Scaling and correction function
+GCODE parser with Scaling and correction function done with Lazarus
 
 A project I start when I make a polarGraph to convert Cartesian Gcode to Polar Gcode
 I Also add some function to center, scale ,and coorect GCODE
